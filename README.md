@@ -8,4 +8,4 @@ Homework2
 
 https://youtube.com/channel/UCFkWYxP5P0-8ZSgopWAZj_Q?si=uo15txBQ1aaKC3JG
 
-[![Video]()
+[![Video](https://youtu.be/CkGW5W4eE6I?si=_YFePu_kZadSPzuh)
