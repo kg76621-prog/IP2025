@@ -4,7 +4,7 @@ OpenCV-Python Tutorials
 
 <img src="dog.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
-https://www.youtube.com/@%EC%9A%A9%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0
+(https://youtube.com/channel/UCFkWYxP5P0-8ZSgopWAZj_Q?si=9K0Ehyyt31PcybYW)
 
 homework1
 
