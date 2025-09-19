@@ -6,8 +6,7 @@ OpenCV-Python Tutorials
 
 homework1
 
-[![Video](https://img.youtube.com/vi/8yn8yWJJUYo/maxresdefault.jpg)](https://www.youtube.com/watch?v=8yn8yWJJUYo
-)
+[![Video](https://img.youtube.com/vi/8yn8yWJJUYo/maxresdefault.jpg)](https://www.youtube.com/watch?v=8yn8yWJJUYo)
 
 Homework2
 
